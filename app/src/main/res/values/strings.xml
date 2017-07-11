@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LuckyTicketHunter</string>
+    <string name="action_settings">Настройки</string>
+    <string name="mainPreditor">Впиши номер билета:</string>
+    <string name="mainBTNText">Рассчитать</string>
+    <string name="errNoNumber">Сначала впиши номер.</string>
+    <string name="isLuck">Это счастливый билет! Сожри его скорей!</string>
+    <string name="isNext">Этот - отстой, следующий - счастливый. Ты знаешь что делать.</string>
+    <string-array name="isunluck">
+        <item>Хреновый билет. Выкинь и следи за кондуктором. Следующий счастливый вытянет</item>
+        <item>"после тебя человек."</item>
+    </string-array>
+    <string-array name="errBadNum">
+        <item>Номер билета некорректен. В номере должно быть -</item>>
+        <item>цифр.</item>
+    </string-array>
+
+</resources>
